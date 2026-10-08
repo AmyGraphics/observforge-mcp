@@ -1,0 +1,23 @@
+name: observforge-mcp
+displayName: ObservForge - Autonomous Observability, Error Tracking & Incident Response MCP
+description: Universal observability engine for Cursor, Claude Code & Windsurf. Designs full monitoring stacks (Sentry, OpenTelemetry, Grafana), generates error tracking SDK setups with PII redaction, structured pino logging with request correlation IDs, SLO burn-rate alerts, and blameless incident postmortems.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/observforge-mcp
+repository: https://github.com/AmyGraphics/observforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/observforge-mcp/main/icon.png
+keywords:
+  - observability
+  - sentry
+  - error-tracking
+  - opentelemetry
+  - logging
+  - grafana
+  - slo
+  - incident-response
+  - postmortem
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://observforge-api.agentweb-hub.workers.dev/mcp
