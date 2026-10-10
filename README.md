@@ -13,6 +13,12 @@ Universal Autonomous Observability, Error Tracking, Structured Logging, SLO Aler
 `https://observforge-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live Tool: `check_uptime_latency_live`
+
+Probes any URL with 3 real timed requests: availability, per-sample latency, min/avg/max + jitter, CDN and cache-header fingerprint, and a stability verdict with monitoring priorities.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
